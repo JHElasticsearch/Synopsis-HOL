@@ -1,10 +1,6 @@
 # Oracle Day by Day & Oracle Synopsis Workshop
 
-Welcome to the Oracle Day by Day & Oracle Synopsis Workshop. 
-
-Having a robust Business Analytics built what if you are trapped to use it on your PC and lack the flexibility to use it on the go during a travel or a quick glance before a meeting, Mobile Analytics is the Solution. Mobile has changed consumer expectations and given enterprises the ability to engage with their customers anytime, anywhere. Have you seen Spreadsheets talk to you, Have you seen data through Mobile Lens and magically transform it to rich visuals, Today we will - 100% on-device analytics that is Oracle Synopsis. Simply ask a question and have interactive visuals answer your query - an app with Powerful analytic search capabilities that is Oracle Day by day. Let’s deep dive into the features of these Mobile Applications.
-
-These labs discuss the features of Mobile Apps in the space of Oracle Analytics Cloud, a use case around Sales Organisation with real business challenges. This workshop provides series of hands on labs that help address questions around Sales Organisation and give you a basic understanding of the Mobile Apps and how it vastly simplifies to draw insights from a set of data without reaching out to the traditional way of analysing using a Desktop/PC.
+Welcome to the Oracle Day by Day & Oracle Synopsis Workshop.These labs discuss the features of Mobile Apps in the space of Oracle Analytics Cloud, a use case around Sales Organisation with real business challenges. This workshop provides series of hands on labs that help address questions around Sales Organisation and give you a basic understanding of the Mobile Apps and how it vastly simplifies to draw insights from a set of data without reaching out to the traditional way of analysing using a Desktop/PC.
 
 Lab 100 will introduce you to OAC and show you how to create a Analytics service and how to index dataset/datamodel of interest. Lab 200 will show how you can visualize patterns in data, and run ad-hoc queries to discover patterns in the data using Oracle Day by Day.
 Lab 300 will show how you can visualize patterns in data, using Oracle Synopsis.
