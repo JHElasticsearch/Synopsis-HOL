@@ -4,4 +4,7 @@
 
 **Right click to Download**
 
-[Lab 100: credit_scoring_100k.csv](https://oracle.github.io/learning-library/workshops/synopsis/install/Sales_Data.csv)
+[Lab 200: Sales_Opportunity_Data_Set.xslx](https://oracle.github.io/learning-library/workshops/synopsis/Sales_Opportunity_Data_Set.xslx)
+
+[Lab 300: Sales_Data.csv] 
+(https://oracle.github.io/learning-library/workshops/synopsis/Sales_Data.csv)
